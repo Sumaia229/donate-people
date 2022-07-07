@@ -198,71 +198,7 @@ body {
     background-color: #fff4d6b8;
 }
 
-.email-area {
-    align-items: center;
-    text-align: center;
-    margin: 50px 0;
-    padding-top: 50px;
-}
 
-
-.email-box {
-    background-color: #fff4d6b8;
-    padding: 55px 25px;
-    margin: 40px;
-    display: inline-block;
-    justify-content: center;
-    align-items: center;
-    width: 780px;
-}
-
-#email {
-    background-color: #D9D9D9;
-    color: #AA9F9F;
-    font-size: 15px;
-    width: 270px;
-    padding: 15px;
-    border-style: none;
-    border-radius: 4px;
-}
-
-#subscribe-button {
-    width: 100px;
-    padding: 15px;
-    font-size: 15px;
-    border-style: none;
-    border-radius: 4px;
-    background-color: #FF5959;
-    color: white;
-    margin-left: -50px;
-
-
-}
-
-footer {
-    background-color: #0B0D17;
-    text-align: center;
-    padding: 40px;
-
-
-
-
-}
-
-
-footer h2 {
-    margin: 0px 10px;
-    color: #FF5959;
-    font-family: 'Lobster', cursive;
-    font-size: 35px;
-}
-
-footer p {
-    color: white;
-    margin-top: 30px;
-    font-weight: 200;
-    font-size: 15px;
-}
 
 .our-project-area {
     display: block;
@@ -336,4 +272,84 @@ footer p {
     border: 2px solid #FF5959;
 
 
+}
+
+.project-content .fa-phone {
+    float: right;
+    font-size: 25px;
+    padding: 18px;
+    color: #707070;
+}
+
+.project-content .fa-heart-circle-check {
+    float: right;
+    padding: 19px 0px;
+    font-size: 25px;
+    color: #FF5959;
+}
+
+.email-area {
+    align-items: center;
+    text-align: center;
+    margin: 50px 0;
+    padding-top: 50px;
+}
+
+
+.email-box {
+    background-color: #fff4d6b8;
+    padding: 55px 25px;
+    margin: 40px;
+    display: inline-block;
+    justify-content: center;
+    align-items: center;
+    width: 780px;
+}
+
+#email {
+    background-color: #D9D9D9;
+    color: #AA9F9F;
+    font-size: 15px;
+    width: 270px;
+    padding: 15px;
+    border-style: none;
+    border-radius: 4px;
+}
+
+#subscribe-button {
+    width: 100px;
+    padding: 15px;
+    font-size: 15px;
+    border-style: none;
+    border-radius: 4px;
+    background-color: #FF5959;
+    color: white;
+    margin-left: -50px;
+
+
+}
+
+footer {
+    background-color: #0B0D17;
+    text-align: center;
+    padding: 40px;
+
+
+
+
+}
+
+
+footer h2 {
+    margin: 0px 10px;
+    color: #FF5959;
+    font-family: 'Lobster', cursive;
+    font-size: 35px;
+}
+
+footer p {
+    color: white;
+    margin-top: 30px;
+    font-weight: 200;
+    font-size: 15px;
 }
